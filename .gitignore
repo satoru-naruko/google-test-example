@@ -16,4 +16,7 @@
 *.o
 *.a
 *.so
+*.lib
+*.dll
+*.exp
 *.exe
